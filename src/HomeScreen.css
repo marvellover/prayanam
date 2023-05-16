@@ -80,7 +80,7 @@ flex-direction:row;
 .home-header{
     width: 100%;
     height: 600px;
-    background-image:url('../componet/golconda.jpg');
+    background-image:url('./golconda.jpg');
     background-size: cover;
     background-position: top;
 }
